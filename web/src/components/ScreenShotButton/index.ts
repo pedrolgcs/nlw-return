@@ -1,0 +1,1 @@
+export { ScreenShotButton } from './ScreenShotButton';
