@@ -1,0 +1,7 @@
+node_modules
+
+# envoriments
+.env
+
+# tests
+coverage
